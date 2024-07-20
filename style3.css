@@ -1,0 +1,120 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}.main{
+    width: 1460px;
+    height: 740px;
+    border: solid 2px black;
+    background-image: url(images/modern-gradient-background-free-photo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1{
+    width: 450px;
+    height: 610px;
+    float: left;
+    margin-left: 480px;
+    margin-top: 70px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.a{
+    width: 390px;
+    height: 60px;
+    margin-top: 20px;
+    font-size: 35px;
+    padding-left: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 10px;
+}
+.b{
+    width: 390px;
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;console.log('::: ', );
+}
+.b label{
+    font-size: 18px;
+}
+.b input{
+    font-size: 15px;
+    border: none;
+    outline: none;
+    border-bottom: solid 2px gray;
+    margin-top: 4px;
+    width: 370px;
+    height: 40px;
+    background-color: aliceblue;
+}
+.c{
+    width: 390px;
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+
+}
+.c label{
+    font-size: 18px;
+}
+.c input{
+    font-size: 15px;
+    border: none;
+    outline: none;
+    border-bottom: solid 2px gray;
+    margin-top: 4px;
+    width: 370px;
+    height: 40px;
+    background-color: aliceblue;
+}
+.d{
+    width: 390px;
+    height: 20px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 15px;
+    padding-left: 265px;
+}
+.e{
+    width: 390px;
+    height: 60px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.e input{
+    width: 380px;
+    height: 52px;
+    margin-left: 4px;
+    margin-top: 4px;
+    background-image: url(images/modern-gradient-background-free-photo.webp);
+    border-radius: 25px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+}
+.f{
+    width: 390px;
+    height: 25px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding-left: 135px;
+}
+g{
+    width: 390px;
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.g img{
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 120px;
+
+}
